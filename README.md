@@ -10,3 +10,10 @@
   * `4_populate_data_products.sql`
   * `5_populate_data_orders.sql`
   * `6_populate_data_orders_items.sql`
+
+## Лабораторна робота 3
+* Створено директорію зі скриптами: `/lab-work-03/`
+* Додано файл DML-скрипта для модифікації даних (INSERT, UPDATE, DELETE): `lab_3_DML.sql`
+* Додано файли DQL-скриптів із запитами для вибірки даних (SELECT):
+  * `lab_3_DQL.sql` — основні запити
+  * `lab_3_DQL_extra.sql` — додаткові запити
